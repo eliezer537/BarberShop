@@ -1,0 +1,46 @@
+.sobre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 750px;
+}
+
+.image-sobre {
+  width: 500px;
+  height: 400px;
+  background-image: url('../images/image-page2.png');
+  background-size: 600px 400px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  margin-right: 40px;
+}
+.text-sobre {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 400px;
+  margin-left: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-sobre h1 {
+  font-size: 50px;
+}
+
+.text-sobre p {
+  font-size: 18px;
+  margin: 15px 0;
+  line-height: 24px;
+}
+
+.text-sobre button {
+  width: 150px;
+  height: 50px;
+  border: none;
+  background: red;
+  margin-top: 40px;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
