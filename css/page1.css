@@ -41,7 +41,7 @@ header > ul > li > a:hover {
   border-bottom: 1px solid rgb(207, 204, 204);
 }
 
-header button {
+header > button {
   min-width: 90px;
   height: 40px;
   font-size: 15px;
@@ -55,7 +55,7 @@ header button {
   cursor: pointer;
 }
 
-header button:hover {
+header > button:hover {
   background-color: rgb(37, 37, 37);
 }
 
@@ -100,7 +100,7 @@ nav > .background {
 .nav-centro button {
   width: 200px;
   height: 50px;
-  background-color: rgb(209, 35, 35);
+  background-color: rgb(202, 44, 44);
   border: none;
   color: #fff;
   outline: none;
