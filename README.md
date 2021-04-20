@@ -1,2 +1,10 @@
-<h1>Barber Shop</h1>
-<img src='https://ik.imagekit.io/eliezer537/barber-shop_kpSdvTn6K.gif'></img>
+# **Barber Shop**
+
+## Projeto simples e funcional para apresentação de barbearia.
+
+### Tecnologias utilizadas
+
+1. HTML
+2. CSS
+
+<img src='./assets/barberShop.gif'></img>
